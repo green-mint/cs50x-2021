@@ -71,7 +71,7 @@ bool checkSum(long card) {
         // the digits on the even place(starting from the right of the number)
         if (index % 2 == 0) {
             //multiply the digit by two and calculate the result
-            int result = digit * 2;
+            result = digit * 2;
             //loop through the digits of the result and add the digits to sum
             for (int i=1;i<=lenLong(result);i++) sum += getDigit(result,i);
         }

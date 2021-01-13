@@ -1,0 +1,20 @@
+sort1 uses: bubble
+
+How do you know?: Bubble sort 
+
+sort2 uses: merge
+
+How do you know?: TODO
+
+sort3 uses: selection
+
+How do you know?: TODO
+
+
+
+sort1: worst senerio -> 5.22 secs worst
+sort2: worst senerio -> 0.03 secs merge sort
+sort3: worst senerio -> 2.08 secs
+
+
+
