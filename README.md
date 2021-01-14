@@ -36,6 +36,11 @@ Solutions to Harvard's Introduction to the intellectual enterprises of computer 
         * [filter.c](.\cs50x-2021\week4\pset\filter\less\filter.c)
         * [helpers.c](.\cs50x-2021\week4\pset\filter\less\helpers.c)
         * [helpers.h](.\cs50x-2021\week4\pset\filter\less\helpers.h)
+      * [more/](.\cs50x-2021\week4\pset\filter\more)
+        * [bmp.h](.\cs50x-2021\week4\pset\filter\more\bmp.h)
+        * [filter.c](.\cs50x-2021\week4\pset\filter\more\filter.c)
+        * [helpers.c](.\cs50x-2021\week4\pset\filter\more\helpers.c)
+        * [helpers.h](.\cs50x-2021\week4\pset\filter\more\helpers.h)
     * [recover/](.\cs50x-2021\week4\pset\recover)
       * [recover.c](.\cs50x-2021\week4\pset\recover\recover.c)
 
